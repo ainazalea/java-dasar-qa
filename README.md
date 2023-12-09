@@ -14,3 +14,4 @@
 | Runner            | Materi  |
 | SwitchCase        | Materi  |
 | SwitchCaseEnum    | Materi  |
+| OperasiKomparasi  | Materi  |
